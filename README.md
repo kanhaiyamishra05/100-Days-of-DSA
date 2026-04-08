@@ -4,8 +4,9 @@
 📌 Problem Statement
 Write a Java program to reverse a given number.
 
-## Day 02: 
+## Day 02: Two Sum Problem
 📌 Problem Statement
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
 ## Day 03: 
 📌 Problem Statement
