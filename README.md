@@ -8,9 +8,16 @@ Write a Java program to reverse a given number.
 📌 Problem Statement
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
-## Day 03: 
+## Day 03: 1. Maximum SubArray
 📌 Problem Statement
+Given an integer array nums, find the subarray with the largest sum, and return its sum.
 
+           <h1>2<h1>. Search a 2D Aarray
+  📌 Problem Statement
+You are given an m x n integer matrix matrix with the following two properties:
+  1.Each row is sorted in non-decreasing order.
+  2.The first integer of each row is greater than the last integer of the previous row.
+  
 ## Day 04: 
 📌 Problem Statement
 
